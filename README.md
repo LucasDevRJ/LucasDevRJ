@@ -5,6 +5,8 @@ Eu sou um ex-estudante de Administração de Empresas que foi até o sexto perí
 
 Atualmente somente tenho estudado e estou em busca de uma oportunidade de trabalho como Full Stack. Eu me acho capacitado para trabalhar, porque sempre busco aprender mais. Sou humilde, logo não tenho medo de pedir ajuda. Tenho criatividade, busco inspirações em outros projetos, mas não sou de copiar e colar, gosto que tenha a "minha cara" nos projetos em que faço. Sou inteligente, como tenho uma base boa, tenho uma lógica de programação sólida e isso me facilita codar, pois sei como o computador "pensa". Tenho multiplos conhecimnetos, como vim de outra área, que por sinal é ampla, eu tenho variados tipos de conhecimentos, como filosofia, gestão, português, matemática, entre outros. Por isso acho que sou capacitado e meu portfólio prova isso.
 
+<img src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="300" height="300">
+
 ## Tecnologias
 Tenho conhecimentos em algumas tecnologias que estão logo abaixo:
 ### Front-end
@@ -17,4 +19,4 @@ Tenho conhecimentos em algumas tecnologias que estão logo abaixo:
 ## Contato
 Aqui estão algumas formas de entrar em contato comigo:
 
-<a href = "mailto:lucaspereiradelima2020@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:lucaspereiradelima2020@gmail.com"><img src="https://www.citypng.com/public/uploads/preview/-11597283936hxzfkdluih.png" widht="40" height="40" target="_blank"></a>
