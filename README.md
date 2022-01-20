@@ -27,3 +27,5 @@ Aqui estão algumas formas de entrar em contato comigo:
 ### Por agora é somente isso...
 ### Obrigado por ter lido e até logo.
 <img src="https://c.tenor.com/p0kz7NOqxTkAAAAC/kaito-typing.gif" width="300" height="250">
+
+![Snake animation](https://github.com/LucasDevRJ/LucasDevRJ/blob/output/github-contribution-grid-snake.svg)
