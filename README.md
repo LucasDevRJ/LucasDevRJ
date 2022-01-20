@@ -17,7 +17,7 @@ Tenho conhecimentos em algumas tecnologias que estão logo abaixo:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" widht="40" height="40" /> 
 
 ### IDE
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" widht="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" width="40" height="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" widht="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" width="40" height="40"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA1v74gzrGiQbIhawCsbUfLGPxMXQpctH6EacYgjyQBEAzdJg3R-XHPiVxNt03_k_-lQY&usqp=CAU" widht="40" height="40">
 
 ## Contato
 Aqui estão algumas formas de entrar em contato comigo:
