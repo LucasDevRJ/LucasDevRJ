@@ -1,9 +1,27 @@
 ## Olá caro desenvolvedor!
 ### Eu me chamo Lucas e seja bem-vindo ao meu GitHub.
 # Sobre Mim
-Eu sou um ex-estudante de Administração de Empresas que foi até o sexto período e migrei no ano de 2021 para estudar programação, área a qual sempre tive curiosidade, mas por receio, não ingressei desde o início da minha vida acadêmica. Não me arrependo da troca de áreas, pois estou bem feliz estudando programação e espero que seja assim por muitos anos.
+Iniciei os estudos em desenvolvimento de software ano passado e tenho evoluído bastante desde então.
 
-Atualmente somente tenho estudado e estou em busca de uma oportunidade de trabalho como Full Stack. Eu me acho capacitado para trabalhar, porque sempre busco aprender mais. Sou humilde, logo não tenho medo de pedir ajuda. Tenho criatividade, busco inspirações em outros projetos, mas não sou de copiar e colar, gosto que tenha a "minha cara" nos projetos em que faço. Sou inteligente, como tenho uma base boa, tenho uma lógica de programação sólida e isso me facilita codar, pois sei como o computador "pensa". Tenho multiplos conhecimnetos, como vim de outra área, que por sinal é ampla, eu tenho variados tipos de conhecimentos, como filosofia, gestão, português, matemática, entre outros. Por isso acho que sou capacitado e meu portfólio prova isso.
+Sempre gostei de tecnologia e por isso ficava imaginando como nosso futuro seria afetado por isso.
+
+Migrei de Administração de Empresas para TI e hoje percebo que minha bagagem acadêmica só tem a me ajudar, pois com o conhecimento que adquiri em gestão de negócios, gestão estratégica, filosofia e economia, me sinto muito mais confiante em minha nova jornada.
+
+Busco constantemente me aperfeiçoar profissionalmente, através de uma rotina rígida e bem organizada de estudos, os quais, sempre que posso, publico aqui no LinkedIn.
+
+Dentre minhas principais Soft Skills estão:
+
+•Sempre faço o melhor que posso com as condições que tenho;
+
+•Tenho humildade para pedir ajuda, e fico muito feliz quando posso ajudar;
+
+•Gosto de ser desafiado;
+
+•Tenho afinidade para o trabalho em equipe e sei lidar com as diferenças;
+
+•Tenho interesse genuíno por resolver problemas.
+
+Atualmente busco minha primeira oportunidade no mercado de TI, e ficaria muito feliz em ser considerado para uma posição de estágio.
 
 <img src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="300" height="300">
 
