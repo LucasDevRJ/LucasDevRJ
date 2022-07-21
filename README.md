@@ -1,7 +1,7 @@
 ## Seja bem-vindo!!
 # Sobre Mim
 
-Desenvolvedor Back-end. Possuo projetos em Java, que podem ser conferidos logo abaixo.
+Desenvolvedor Back-end. Possuo projetos em Java, que podem ser conferidos.
 
 ## Tecnologias
 Tenho conhecimentos em algumas tecnologias que estão logo abaixo:
