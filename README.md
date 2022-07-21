@@ -1,8 +1,7 @@
-## Olá caro desenvolvedor!
-### Eu me chamo Lucas e seja bem-vindo ao meu GitHub.
+## Seja bem-vindo!!
 # Sobre Mim
 
-
+Desenvolvedor Back-end. Possuo projetos em Java, que podem ser conferidos logo abaixo.
 
 ## Tecnologias
 Tenho conhecimentos em algumas tecnologias que estão logo abaixo:
