@@ -1,29 +1,8 @@
 ## Olá caro desenvolvedor!
 ### Eu me chamo Lucas e seja bem-vindo ao meu GitHub.
 # Sobre Mim
-Iniciei os estudos em desenvolvimento de software ano passado e tenho evoluído bastante desde então.
 
-Sempre gostei de tecnologia e por isso ficava imaginando como nosso futuro seria afetado por isso.
 
-Migrei de Administração de Empresas para TI e hoje percebo que minha bagagem acadêmica só tem a me ajudar, pois com o conhecimento que adquiri em gestão de negócios, gestão estratégica, filosofia e economia, me sinto muito mais confiante em minha nova jornada.
-
-Busco constantemente me aperfeiçoar profissionalmente, através de uma rotina rígida e bem organizada de estudos, os quais, sempre que posso, publico aqui no LinkedIn.
-
-Dentre minhas principais Soft Skills estão:
-
-•Sempre faço o melhor que posso com as condições que tenho;
-
-•Tenho humildade para pedir ajuda, e fico muito feliz quando posso ajudar;
-
-•Gosto de ser desafiado;
-
-•Tenho afinidade para o trabalho em equipe e sei lidar com as diferenças;
-
-•Tenho interesse genuíno por resolver problemas.
-
-Atualmente busco minha primeira oportunidade no mercado de TI, e ficaria muito feliz em ser considerado para uma posição de estágio.
-
-<img src="https://c.tenor.com/5ry-200hErMAAAAd/hacker-hacker-man.gif" width="300" height="300">
 
 ## Tecnologias
 Tenho conhecimentos em algumas tecnologias que estão logo abaixo:
@@ -47,5 +26,3 @@ Aqui estão algumas formas de entrar em contato comigo:
 ### Por agora é somente isso...
 ### Obrigado por ter lido e até logo.
 <img src="https://c.tenor.com/p0kz7NOqxTkAAAAC/kaito-typing.gif" width="300" height="250">
-
-![Snake animation](https://github.com/LucasDevRJ/LucasDevRJ/blob/output/github-contribution-grid-snake.svg)
