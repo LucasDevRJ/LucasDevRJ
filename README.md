@@ -22,7 +22,3 @@ Tenho conhecimentos em algumas tecnologias que estão logo abaixo:
 Aqui estão algumas formas de entrar em contato comigo:
 
 <a href = "mailto:lucaspereiradelima2020@gmail.com"><img src="https://www.citypng.com/public/uploads/preview/-11597283936hxzfkdluih.png" widht="40" height="40" target="_blank"></a> <a href = "https://www.linkedin.com/in/lucas-pereira-de-lima-programador/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/LinkedIn_icon_circle.svg/2048px-LinkedIn_icon_circle.svg.png" widht="40" height="40" target="_blank"></a>
-
-### Por agora é somente isso...
-### Obrigado por ter lido e até logo.
-<img src="https://c.tenor.com/p0kz7NOqxTkAAAAC/kaito-typing.gif" width="300" height="250">
