@@ -3,8 +3,6 @@
 
 Migrei de Administração de Empresas para o incrível mundo de tecnologia! Onde comecei construindo páginas em HTML/CSS e JavaScript, até fazendo sistemas de CRUD e me apronfudando no Back-end. Pode se sentir a vontade em vasculhar meus projetos e quem sabe aprender com eles :grin:
 
-Possuo um segundo GitHub: [LucasPereiraDev](https://github.com/LucasPereiraDev)
-
 <div align="center">
   <a href="https://github.com/LucasDevRJ">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDevRJ&layout=compact&langs_count=7&theme=dracula"/>
