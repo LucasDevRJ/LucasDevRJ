@@ -3,8 +3,7 @@
 
 Migrei de Administração de Empresas para o incrível mundo de tecnologia! Onde comecei construindo páginas em HTML/CSS e JavaScript, até fazendo sistemas de CRUD e me apronfudando no Back-end. Pode se sentir a vontade em vasculhar meus projetos e quem sabe aprender com eles :grin:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasDevRJ&theme=great-gatsby&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDevRJ&theme=great-gatsby&show_icons=true&layout=compact)](https://github.com/LucasDevRJ/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasDevRJ&theme=great-gatsby&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDevRJ&theme=great-gatsby&show_icons=true&layout=compact)](https://github.com/LucasDevRJ/github-readme-stats)
 
 ## Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" widht="40" height="40" /> 
